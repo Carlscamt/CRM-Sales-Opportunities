@@ -52,6 +52,28 @@ This project demonstrates end-to-end **data analytics and business intelligence*
 
 ---
 
+## 📈 Executive Dashboards
+
+The project generates 4 professional PNG dashboards for presentations and stakeholder communication:
+
+### 1. Pipeline Overview
+![Pipeline Overview](download-9.jpg)
+High-level view of your sales pipeline including stage distribution (pie chart), revenue by stage, and win vs loss ratio.
+
+### 2. Top Performers
+![Top Performers](download-10.jpg)
+Comprehensive performer analysis with top 10 agents by revenue, top products by revenue, revenue by region, and conversion rate leaders.
+
+### 3. Trends Analysis
+![Trends Analysis](download-11.jpg)
+Monthly trends showing revenue trajectory, deal volume, average deal size, and sales cycle performance against 45-day target.
+
+### 4. Pipeline Health
+![Pipeline Health](download-12.jpg)
+Pipeline funnel, win rate by sector, deal size distribution, and sales cycle distribution with average vs. median benchmarks.
+
+---
+
 ## 📁 Dataset
 
 The analysis uses four CSV files representing a complete B2B CRM system:
