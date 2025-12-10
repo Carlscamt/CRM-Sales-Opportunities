@@ -57,19 +57,23 @@ This project demonstrates end-to-end **data analytics and business intelligence*
 The project generates 4 professional PNG dashboards for presentations and stakeholder communication:
 
 ### 1. Pipeline Overview
-![Pipeline Overview](download-9.jpg)
+<img width="1699" height="515" alt="download (9)" src="https://github.com/user-attachments/assets/eddf90d2-93f6-455f-9d3e-29b3460e1aeb" />
+
 High-level view of your sales pipeline including stage distribution (pie chart), revenue by stage, and win vs loss ratio.
 
 ### 2. Top Performers
-![Top Performers](download-10.jpg)
+<img width="1589" height="1199" alt="download (10)" src="https://github.com/user-attachments/assets/e00aad39-0907-4e0b-89c7-d3d543724eab" />
+
 Comprehensive performer analysis with top 10 agents by revenue, top products by revenue, revenue by region, and conversion rate leaders.
 
 ### 3. Trends Analysis
-![Trends Analysis](download-11.jpg)
+<img width="1589" height="999" alt="download (11)" src="https://github.com/user-attachments/assets/bdf583a7-3d75-468f-9f8e-63a02755483e" />
+
 Monthly trends showing revenue trajectory, deal volume, average deal size, and sales cycle performance against 45-day target.
 
 ### 4. Pipeline Health
-![Pipeline Health](download-12.jpg)
+<img width="1590" height="1000" alt="download (12)" src="https://github.com/user-attachments/assets/a84788e0-8e3a-4bfd-8f0a-e62d7e49d378" />
+
 Pipeline funnel, win rate by sector, deal size distribution, and sales cycle distribution with average vs. median benchmarks.
 
 ---
